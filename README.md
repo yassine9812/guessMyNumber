@@ -24,3 +24,16 @@ Click the **Again** button to reset the game and try again — your high score w
 - Built with **vanilla JavaScript**
 - Uses **DOM manipulation** to update the UI dynamically
 - Styled with **CSS**, using class changes to reflect game state
+
+## 🚀 How to Run Locally
+
+1. Make sure you have **Node.js** installed.
+2. Install **live-server** globally (if you haven’t already):
+   ```bash
+   npm install -g live-server
+   ```
+3. Navigate to the project folder and run:
+   ```bash
+   live-server
+   ```
+4. The game will open in your browser automatically.
